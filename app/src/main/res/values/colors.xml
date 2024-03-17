@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="et_grey">#6C798F</color>
+    <color name="login_tv_dark_blue">#172B4D</color>
+    <color name="login_bt_bg_color">#3698DD</color>
+    <color name="blue">#0288D1</color>
+    <color name="call_btn_grey">#999999</color>
+    <color name="light_grey">#F9F9F9</color>
+    <color name="green">#4CAF50</color>
+    <color name="orange">#FF9800</color>
+    <color name="grey">#c2c2c2</color>
+</resources>
